@@ -126,7 +126,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/q-learning-python.git
+git clone https://github.com/pedro420b/MLeaProbs/Qlearningalgo.py
 cd q-learning-python
 Install the dependencies:
 bash
